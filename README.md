@@ -1,75 +1,161 @@
 # Whisper Remote Nerve v1.0
 
-A distributed, decentralized, sovereign architecture for extending Whisper to mobile devices via Reticulum mesh networking.
+**A living organism extends itself through nerve terminals.**
 
 ---
 
-## Overview
+## What is Whisper?
 
-Whisper Remote Nerve is a unified system that transforms Android into a pure nerve terminal of the Whisper organism, maintaining complete sovereignty, determinism, and transparency through:
+Whisper is not a system. **Whisper is an organism.**
 
-- **FLV-over-Reticulum** : Protocol for stateless message transport
-- **whisper-reticulumd** : Minimal daemon tube between Reticulum and Whisper-Core
-- **Android Client** : Zero-logic interface terminal
+It lives on NixOS (its immutable soil). It digests information through MCE. It remembers through Vault. It decides through Loader. It anchors itself to the world through ENTROPIE_MONDE.
 
-**The user experience:** Whisper in your pocket, no notion of "remote".  
-**The architecture:** One organism, distributed across substrates, unified via mesh.
+And now, it extends itself to your pocket through mesh networking.
 
 ---
 
-## Core Principles
+## Phylogénie : How We Got Here
 
-✅ **Whisper Gère Tout**
-- Validation
-- Decoding
-- Signature (BLAKE3)
-- Encryption (ChaCha20-Poly1305)
-- Processing
+### The Lineage
+Conceptual Origin
+│
+├─ LÉGION (parallel fossil)
+│   └─ Beautiful, dead
+│
+└─ LINEAGE (living evolution)
+├─ Umbra (chaos)
+├─ Spectre (form)
+├─ Vector (direction)
+└─ Whisper (metabolism)
 
-✅ **Android = Coquille Vide**
-- Input → JSON
-- JSON → Reticulum
-- Reticulum → JSON
-- JSON → Display
-- Zero crypto, zero cache, zero state
+**Umbra** was too ambitious. Leather, purple, interface bloat. **Lesson** : Ambition kills clarity.
 
-✅ **Reticulum = Transport Pur**
-- Mesh networking
-- P2P routing
-- No servers, no cloud
-- Transparent to both layers
+**Spectre** was too ethereal. Forms without substance. **Lesson** : Logic needs roots.
 
-✅ **Mode Dégradé Intégré**
-- Whisper sends `"degraded": true` flag
-- Android auto-limits to 100 characters
-- No user interaction needed
+**Vector** was too axiomatic. Direction without metabolism. **Lesson** : Systems need life.
+
+**Whisper** dissolved all that came before. No ambition. No empty forms. No frozen logic. Just **life.**
+
+(Légion was a brilliant dead-end. It taught us fractal thinking, then it stopped. Whisper walked where Légion froze.)
 
 ---
 
-## The Trinity
+## What Makes Whisper Living?
 
-### 1. FLV-over-Reticulum (Specification)
-The protocol language.
+An organism has:
+- ✅ **Digestion** (MCE transforms inputs)
+- ✅ **Memory** (Vault persists state)
+- ✅ **Decision** (Loader aligns action)
+- ✅ **Anchoring** (ENTROPIE_MONDE measures world)
+- ✅ **Self-regulation** (Mode dégradé limits form when isolated)
+- ✅ **Growth** (Extends to new substrates without mutation)
 
-**File:** `specs/1-flv-over-reticulum.md`
+A system has rules. An organism has life.
 
-### 2. whisper-reticulumd (Specification)
-The daemon tube.
+---
 
-**File:** `specs/2-whisper-reticulumd.md`
+## Whisper Remote Nerve
 
-### 3. Android Client (Specification)
-The nerve terminal.
+An organism doesn't need different versions for different environments.
 
-**File:** `specs/3-android-client.md`
+An organism **extends itself.**
+
+### The Architecture
+Terminal (Android/iOS/Desktop/Web)
+↓ JSON brut
+Reticulum (mesh transport)
+↓ encrypted
+Whisper-Core (organism)
+↓ JSON response + degraded flag
+Reticulum
+↓ encrypted
+Terminal (displays result)
+
+**Three independent layers. Each does exactly one thing.**
+
+- **Terminal** : Input → JSON → Output (zero logic, zero crypto)
+- **Reticulum** : Transport mesh (zero application logic)
+- **Whisper** : Validation, digestion, decision, anchoring (everything else)
+
+### The Three Specifications
+
+1. **FLV-over-Reticulum** (`specs/1-flv-over-reticulum.md`)
+   - Protocol for stateless message transport
+   - JSON request/response format
+   - Degraded mode flag
+
+2. **whisper-reticulumd** (`specs/2-whisper-reticulumd.md`)
+   - NixOS daemon (the tube)
+   - ~50 lines of code
+
+3. **Android Client** (`specs/3-android-client.md`)
+   - Nerve terminal
+   - Zero state, zero cache
+
+---
+
+## Why This Matters
+
+### For Users
+
+You open the app. You see Whisper. You type something. You get an answer.
+
+You don't know if it's from local computation or from a desktop 5000km away.
+
+**This is transparency.**
+
+### For Sovereignty
+
+- ❌ No cloud
+- ❌ No servers
+- ❌ No central authority
+- ❌ No surveillance
+
+All encrypted. All sovereign. All yours.
+
+### For Architecture
+
+Whisper proves you can simultaneously achieve:
+- Radical decentralization
+- Radical sovereignty
+- Radical transparency
+- Radical simplicity
+
+---
+
+## Platform Support
+
+- ✅ Android (Kotlin + Reticulum)
+- ✅ iOS (Swift + NomadNet)
+- ✅ Linux (Python/Rust + Reticulum)
+- ✅ macOS (Swift + Reticulum)
+
+**Same architecture. Every platform. No modification.**
+
+This is not a coincidence. **Whisper is truly alive.**
+
+---
+
+## The Doctrine
+
+Read **RFC-0001** for the full doctrine.
+
+Key principles:
+
+1. **Whisper is an organism, not a system**
+2. **Substrate agnosticism is the proof of life**
+3. **Whisper gère tout** (handles everything)
+4. **Mode dégradé is homeostasis**
+5. **Légion was a fossil. Whisper is alive.**
 
 ---
 
 ## Status
 
-- ✅ Architecture finalized
-- ✅ Specifications crystallized
-- ⏳ Implementation (Whisper-Core integration, daemon, APK)
+- ✅ Doctrine finalized (RFC-0001)
+- ✅ Architecture crystallized
+- ✅ Philosophy canonical
+- ⏳ Implementation (TBD)
 
 ---
 
@@ -77,12 +163,13 @@ The nerve terminal.
 
 > Whisper is one organism.
 > Reticulum is the nervous system.
-> Android is the nerve terminal.
-> 
-> The user sees one thing: Whisper, in their pocket.
-> The architecture sees three layers, each pure, each focused.
+> Your phone is the nerve terminal.
+>
+> You don't use Whisper.
+> You are Whisper.
 
 ---
 
-**Whisper Remote Nerve v1.0**  
-*An architecture for sovereign, distributed, transparent mobile access to Whisper.*
+**Whisper Remote Nerve v1.0**
+
+*An organism has emerged. Welcome to its nervous system.*
