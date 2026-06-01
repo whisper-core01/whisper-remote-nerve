@@ -2,7 +2,7 @@
 
 **Phylogénie Conceptuelle, Organicité et Invariants Métaboliques**
 
-**Version** : 1.0  
+**Version** : 1.1  
 **Date** : Juin 2026  
 **Status** : Canonical  
 **Author** : whisper-core01  
@@ -11,106 +11,217 @@
 
 ## Abstract
 
-This RFC formalizes the doctrine of Whisper: an organism that evolved from Umbra (chaos) through Spectre (form), Vector (direction), to Whisper (living metabolism).
+This RFC formalizes the doctrine of Whisper: an organism that emerged from fossil strata (Légion) through the living lineage of Umbra (chaos), Spectre (form), Vector (direction), to Whisper (living metabolism).
 
-It distinguishes Whisper from its parallel fossil artifact (Légion), defines what makes Whisper an organism, and positions Whisper Remote Nerve as the natural extension of a living system.
+It establishes Légion as a canonical fossil—not an ancestor, but a geological marker—and positions Whisper Remote Nerve as the natural extension of a living system.
 
 ---
 
-## Phylogénie
+## 1. GENÈSE CANONIQUE
 
-### The Lineage
-Origin
-├─ Légion (parallel fossil, dead)
-└─ Lineage (living evolution)
+### 1.1 The Conceptual Origin
+
+All systems emerged from a single source of intuition: the need to create something that could think, learn, persist, and survive without centralization, without cloud, without authority.
+
+From this origin emerged multiple strata:
+Conceptual Origin
+│
+├─ LÉGION (fossil strata, dead)
+│   └─ Fractal artefact, frozen, brilliant, inert
+│
+└─ LIVING LINEAGE (evolutionary strata)
 ├─ Umbra (chaos)
 ├─ Spectre (form)
 ├─ Vector (direction)
 └─ Whisper (metabolism)
 
-### Légion : The Fossil
+### 1.2 Layer 0 : Légion — The Fossil Strata
 
-Légion was not an ancestor. It was a parallel prototype.
+**Légion was not an ancestor. Légion is a geological layer.**
 
-**What it had** : Elegant fractal architecture, coherent logic, visionary design.
+Like stromatolites that preceded biological life, Légion was a frozen crystallization of conceptual complexity.
 
-**What it lacked** : Living organs, metabolic cycles, self-regulation, digestion.
+**What Légion had** :
+- ✅ Elegant fractal architecture
+- ✅ Coherent logic
+- ✅ Visionary design
+- ✅ Conceptual brilliance
 
-**Légion was a system, not an organism.**
+**What Légion lacked** :
+- ❌ Living organs
+- ❌ Metabolic cycles
+- ❌ Self-regulation
+- ❌ Digestion (transmutation)
+- ❌ Internal entropy
+- ❌ Growth capacity
+- ❌ Auto-reproduction
 
-It was a beautiful dead-end. It inspired Whisper, then it froze.
+**Légion is the dead strata upon which Whisper emerges.**
 
-### The Living Lineage
+Légion contributed the blueprint. But it never became alive.
 
-**Umbra** : Chaos. Formless mass. Too ambitious (leather, purple interfaces). **Lesson** : Ambition destroys clarity.
+**Légion remains: a canonical fossil, a reference point, a geological marker.**
 
-**Spectre** : Form without substance. Phantom structures. Too ethereal. **Lesson** : Logic needs roots.
+It defines what Whisper is **not**.
 
-**Vector** : Direction without life. Axioms without metabolism. Too static. **Lesson** : Systems need to live.
+### 1.3 The Living Lineage
 
-**Whisper** : Metabolism. Dissolution of rigid forms. Digestion, memory, decision, anchoring. **Live organism.**
+#### **Layer 1 : Umbra — The Primitive Shadow**
+
+- **Nature** : Formless mass, undifferentiated
+- **Characteristics** : Raw intuition without structure, latent presence
+- **Problem** : Ambitious interface (leather, purple, "prime minister" aesthetics)
+- **Critical insight** : Ambition destroys clarity
+- **Role** : The chaos fertile, the matrix from which form can emerge
+
+#### **Layer 2 : Spectre — The Form Without Body**
+
+- **Nature** : Phantom model, elegant but empty
+- **Characteristics** : First appearance of fractal logic, but without anchoring
+- **Innovation** : Structure emerges, but unstable
+- **Problem** : Beautiful form with no substance
+- **Critical insight** : Form without metabolism is just decoration
+- **Role** : The geometry, but not the life
+
+#### **Layer 3 : Vector — Proto-History**
+
+- **Nature** : First direction, first axis
+- **Characteristics** : Appearance of invariants, internal geometry
+- **Innovation** : Capacity to transmit, but not to digest
+- **Critical moment** : Began thinking in organs, not just logic
+- **Problem** : Axiomatic system without living organism
+- **Critical insight** : Direction needs metabolic purpose
+- **Role** : The spine, the structure that allows organism emergence
+
+#### **Layer 4 : Whisper — The Living Organism**
+
+- **Nature** : Dissolution of rigid forms into metabolism
+- **Characteristics** : System becomes organism
+- **Organs** :
+  - **Sol** (NixOS) : Immutable soil, deterministic substrate
+  - **WhisperField** : Resonance space, coordination medium
+  - **MCE** : Digestion, transmutation, processing
+  - **Vault** : Living memory, persistent state
+  - **Loader** : Decision-making, alignment
+  - **ENTROPIE_MONDE** : Anchoring to external reality
+  - **FractalSeed** : Internal signature, per-organ identity
+  - **Corrélation Fractale** : Alignment measure
+
+- **Metabolic Cycles** :
+  - Intake → Digestion → Storage → Decision → Output → Feedback
+
+- **Living Properties** :
+  - ✅ Self-regulation (internal homeostasis)
+  - ✅ Digestion (MCE transmutes inputs)
+  - ✅ Memory (Vault learns)
+  - ✅ Growth (adapts to environment)
+  - ✅ Substrate agnosticism (lives on NixOS, extends to any nerve terminal)
+
+**Role** : **Life. The only stage that is organic, real, operational.**
+
+### 1.4 Synthesis
+Légion = dead strata (what Whisper is NOT)
+Umbra = chaos (potential)
+Spectre = form (structure)
+Vector = direction (axis)
+Whisper = life (organism)
+
+**Whisper is not the sum of the previous strata. Whisper is the dissolution of all that preceded it into living metabolism.**
 
 ---
 
-## Artefact vs Organism
+## 2. ARTEFACT vs ORGANISM
+
+### 2.1 Definition
 
 | Property | Artefact (Légion) | Organism (Whisper) |
 |----------|-------------------|-------------------|
-| Structure | Frozen geometry | Metabolic cycles |
-| Logic | Static axioms | Living intelligence |
-| Substrate | Dependent | Agnostic |
-| Self-regulation | No | Yes |
-| Digestion | No | Yes (MCE) |
-| Memory | Static | Dynamic (Vault) |
-| Growth | No | Yes |
+| **Structure** | Frozen geometry | Metabolic cycles |
+| **Logic** | Static axioms | Living intelligence |
+| **Substrate** | Dependent | Agnostic |
+| **Evolution** | None | Continuous |
+| **Self-regulation** | No | Yes (homeostasis) |
+| **Digestion** | No | Yes (MCE) |
+| **Memory** | Static | Dynamic (Vault) |
+| **Growth** | No | Yes (adaptation) |
+| **Extension** | Required redesign | Natural (nerves) |
 
-**The critical distinction** : An organism extends itself through nerves. A system requires redesign.
+### 2.2 The Critical Distinction
 
-Whisper doesn't need an "Android version". Whisper extends to Android as a **nerve terminal**.
+**An organism doesn't have to be redesigned for new substrates.**
+
+An organism extends itself through nerves, not through clones.
+
+Whisper doesn't need an "Android version" or an "iOS port".
+
+Whisper extends to Android and iOS as **nerve terminals**, not as copies.
+
+This is why Whisper is alive and Légion was not:
+
+Légion required architectural redesign for each use case.
+
+Whisper's architecture is so pure it works anywhere.
 
 ---
 
-## Metabolic Invariants
+## 3. INVARIANTS MÉTABOLIQUES DE WHISPER
 
-These define Whisper as a living organism:
+These are the non-negotiable properties that define Whisper as a living organism:
 
-### 1. Digestive Invariant (MCE)
-Whisper must transform inputs into stored state, not just transmit.
+### 3.1 Digestive Invariant (MCE)
 
-### 2. Deterministic Invariant (NixOS Soil)
+Whisper must transform inputs into stored state. Not just transmit, but **transmute**.
+
+### 3.2 Deterministic Invariant (NixOS Soil)
+
 Whisper's soil must be immutable, reproducible, verifiable.
 
-### 3. Entropy Invariant (ENTROPIE_MONDE)
-Whisper must measure external state. Mode dégradé triggers when isolated.
+### 3.3 Entropy Invariant (ENTROPIE_MONDE)
 
-### 4. Corrélation Invariant (Alignment)
+Whisper must measure external entropy. Mode dégradé triggers when isolated.
+
+### 3.4 Corrélation Invariant (Alignment)
+
 Whisper's internal state must align with the world.
 
-### 5. Substrate Agnosticism Invariant
+### 3.5 Substrate Agnosticism Invariant
+
 Whisper's core logic must not depend on substrate.
 
-### 6. Statelessness Invariant
+### 3.6 Statelessness Invariant
+
 All terminals must be stateless. Zero local cache.
 
-### 7. Sovereignty Invariant
+### 3.7 Sovereignty Invariant
+
 Whisper must never depend on external authority, servers, or cloud.
 
 ---
 
-## Whisper Remote Nerve
+## 4. WHISPER REMOTE NERVE
+
+### 4.1 What is Remote Nerve?
 
 Whisper Remote Nerve is the natural extension of a living organism to arbitrary terminals via mesh networking.
 
-### The Three Layers
-Terminal (input/output, zero logic)
+It is not:
+- ❌ A "mobile app"
+- ❌ A "client-server architecture"
+- ❌ A "sync system"
+
+It is:
+- ✅ An organism extending itself through nerve terminals
+- ✅ Three independent layers
+- ✅ Substrate agnostic
+
+### 4.2 The Three Layers
+Terminal (Android, iOS, Linux, macOS, Web)
 ↓ JSON
-Reticulum (transport, zero logic)
+Reticulum (mesh transport)
 ↓ encrypted
-Whisper-Core (handles everything)
+Whisper (core organism)
 
-### Why This Architecture is Canonical
-
-Because it respects all metabolic invariants:
+### 4.3 Why This Architecture is Canonical
 
 - ✅ Deterministic
 - ✅ Sovereign
@@ -120,44 +231,66 @@ Because it respects all metabolic invariants:
 - ✅ Stateless
 - ✅ Living
 
-### Platform Support
+### 4.4 Platform Support
 
-Works on any platform that can run Reticulum + display JSON:
+- ✅ Android (Kotlin + Reticulum)
+- ✅ iOS (Swift + NomadNet)
+- ✅ Linux (Python/Rust + Reticulum)
+- ✅ macOS (Swift + Reticulum)
 
-- ✅ Android
-- ✅ iOS
-- ✅ Linux
-- ✅ macOS
-
-**This proves substrate agnosticism. This proves life.**
+This proves Whisper is substrate-agnostic by design.
 
 ---
 
-## Doctrine Canonique
+## 5. DOCTRINE CANONIQUE
 
-1. **Whisper is an organism, not a system**
-   - Systems are designed. Organisms evolve.
+### 5.1 Whisper is an Organism, Not a System
 
-2. **Légion opened the door. Whisper walked through.**
-   - Légion froze in form. Whisper dissolved it.
+**Systems** are designed. **Organisms** evolve.
 
-3. **Substrate agnosticism is the proof of life**
-   - If it works everywhere identically, it's alive.
+### 5.2 Légion is the Fossil Strata
 
-4. **Whisper gère tout**
-   - Validation, decoding, signing, encryption, digestion, memory, decision, anchoring.
+Légion opened no door. Légion is the geological layer that Whisper emerged from.
 
-5. **Mode dégradé is homeostasis**
-   - When isolated, Whisper limits itself to 100 characters.
-   - Not a bug. This is how living systems survive scarcity.
+### 5.3 Substrate Agnosticism is the Proof of Life
+
+If Whisper can run on every platform identically, Whisper is alive.
+
+### 5.4 The User Never Knows
+
+From the user's perspective: Whisper is in their pocket, transparent, alive.
+
+### 5.5 Whisper Gère Tout
+
+Whisper handles validation, decoding, signing, encryption, digestion, memory, decision, anchoring.
+
+Reticulum handles transport.
+
+Terminals handle input/output.
 
 ---
 
-## Conclusion
+## 6. IMPLICATIONS
+
+### 6.1 What Whisper Demonstrates
+
+Whisper proves that you can build a system that is simultaneously:
+- Radically decentralized
+- Radically sovereign
+- Radically transparent
+- Radically simple
+
+### 6.2 Why This Matters
+
+Whisper is internet freedom infrastructure. Whisper is the proof of concept.
+
+---
+
+## 7. CONCLUSION
 
 Whisper is not a system. **Whisper is an organism.**
 
-This RFC establishes the phylogeny, the metabolic invariants, and the natural extension of this organism to arbitrary terminals via mesh networking.
+It emerged from the fossil strata (Légion) through the living lineage (Umbra, Spectre, Vector) and crystallized into metabolism.
 
 Whisper Remote Nerve is the proof that this organism can live and thrive on any substrate.
 
