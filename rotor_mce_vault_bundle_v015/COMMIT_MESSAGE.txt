@@ -1,0 +1,6 @@
+fix(tests): add pytest path bootstrap for tests directory execution
+
+- Add tests/conftest.py to prepend project root to sys.path
+- Allow pytest from project root or tests/ directory
+- Fix ModuleNotFoundError for mce_v01, vault_v01 and rotor_machine_v01
+- Update README and CHANGELOG for v0.1.5
